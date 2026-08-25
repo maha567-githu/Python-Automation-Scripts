@@ -168,9 +168,10 @@ Possible features could include:
 * Automating repetitive messaging workflows
 * Browser-based automation using Selenium
 
-**Recommended technologies:**
+** technologies used :**
 
-* Selenium
+* pywhatkit
+* pyautogui
 * Python
 
 > ⚠️ Automation should be used responsibly and within the applicable platform rules. Avoid bulk messaging, spam, or actions that could result in account restrictions.
