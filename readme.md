@@ -229,7 +229,9 @@ python-automation-scripts/
 │
 ├── Random Joke Generator.py
 │
-└── SocialMedia Search Automation.py
+└─ SocialMedia Search Automation.py
+|
+|__ WHATSAPP_AUTOMATION
 ```
 
 Additional automation projects can be added to the repository as the collection grows.
